@@ -3,8 +3,7 @@
 
 *Mercurial
 
-*
-
+*Git
 *Subversion
 
 *CVS
