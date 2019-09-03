@@ -3,7 +3,7 @@
 
 *Mercurial
 
-*Git Hub
+*
 
 *Subversion
 
